@@ -44,9 +44,4 @@
   "devDependencies": {
     "tailwindcss": "^3.3.2",
   },
-  "description": "Summerizer",
-  "main": "tailwind.config.js",
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
-}
+ 
