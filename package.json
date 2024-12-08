@@ -14,14 +14,14 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4",
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "dev": "react-scripts ejec",
-    "build": "react-scripts ejec"
+    "dev": "react-scripts eject",
+    "build": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
@@ -42,7 +42,6 @@
     ]
   },
   "devDependencies": {
-    "tailwindcss": "^3.3.2",
+    "tailwindcss": "^3.3.2"
   }
 }
- 
