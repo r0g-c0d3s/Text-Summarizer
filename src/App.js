@@ -140,7 +140,7 @@ function App() {
           <span className="text-5xl font-bold text-cyan-500">Easy</span>
         </h1>
         <p className="mt-5 text-lg text-gray-500 sm:text-xl text-center max-w-2xl">
-          Paste your text below to get a quick summary!
+          Paste your text below to get a quick question and answers!
         </p>
 
         <textarea
