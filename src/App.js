@@ -34,7 +34,7 @@ function App() {
     };
 
     try {
-      const response = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=AIzaSyCgg5TkGwAD4hzO0JKVo9FQ4p5kIimr76A`, requestOptions);
+      const response = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=`, requestOptions);
       if (!response.ok) throw new Error("Failed to fetch summary");
       const dt = await response.json();
       const text = dt.candidates?.[0]?.content?.parts?.[0]?.text?.trim();
